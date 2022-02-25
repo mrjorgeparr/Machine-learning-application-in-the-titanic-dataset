@@ -1,7 +1,6 @@
 #clean the workspace
 rm(list=ls())
 #First we load the data and read the data
-
 load("titanic_train.RDATA")
 head(titanic.train)
 #MAIN CODE
