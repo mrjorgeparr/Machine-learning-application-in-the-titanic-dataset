@@ -1,7 +1,7 @@
 #clean the workspace
 rm(list=ls())
 #First we load the data and read the data
-setwd("C:/Users/lodba/OneDrive/Escritorio/UNI/Data/Assignment 2")
+
 load("titanic_train.RDATA")
 head(titanic.train)
 #MAIN CODE
